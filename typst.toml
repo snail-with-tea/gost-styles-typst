@@ -3,5 +3,5 @@ name = "gost-styles"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Snail-with-tea <tipounlogick@gmail.com>"]
-license = ""
+license = "MIT or Apache 2.0"
 description = "Collection of styles and init functions to make my life easier"
