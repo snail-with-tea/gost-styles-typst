@@ -180,7 +180,7 @@
   align(right)[
     #block(width: 9cm)[
       Выполнил обучающийся гр.
-      #underline[#ulineh(1fr) ВКБ24 #ulineh(1fr)]
+      #underline[#ulineh(1fr) #author-group #ulineh(1fr)]
 
       #underline[#ulineh(1fr) #author-name #ulineh(1fr)]
       #v(-0.7em)
