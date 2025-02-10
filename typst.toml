@@ -1,5 +1,5 @@
 [package]
-name = "gost_styles"
+name = "gost-styles"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Snail-with-tea <tipounlogick@gmail.com>"]
