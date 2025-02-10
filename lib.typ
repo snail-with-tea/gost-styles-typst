@@ -135,7 +135,7 @@
   paper-title: [
     *Журнал лабораторных работ*
   ],
-  org-icon: "/DonSTU_sign.png",
+  org-icon: [No icon],
   org-preamble: [
     МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ \
     РОССИЙСКОЙ ФЕДЕРАЦИИ
@@ -173,7 +173,7 @@
 
   align(
     center,
-    image(org-icon, height: 1.6cm),
+    org-icon,
   )
 
   align(center)[
